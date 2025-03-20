@@ -1,2 +1,2 @@
 int led = 13;
-int botao;
+int botao = 12;
